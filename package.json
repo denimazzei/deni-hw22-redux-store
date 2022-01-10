@@ -18,5 +18,11 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1"
+  },
+  
+  "engines": {
+    "npm": "7.x"
   }
+
+
 }
